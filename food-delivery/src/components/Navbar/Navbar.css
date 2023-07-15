@@ -1,0 +1,8 @@
+.navbar-container{
+    display:flex;
+}
+.navbar-logo{
+
+   height:25px;
+    width:fit-content;
+}
